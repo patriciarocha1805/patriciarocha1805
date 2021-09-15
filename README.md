@@ -9,7 +9,7 @@
 <div>
   <a href="https://https://github.com/patriciarocha1805">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciarocha1805&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciarocha1805&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciarocha1805&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   
