@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é <b>Patrícia</b> e sou <b>Desenvolvedora Java Full-Stack & Estudante de Bacharel em TI</b>, do Brasil.</h2>
+<h2 align="left">Olá 👋! Meu nome é <b>Patrícia</b> e sou <b>Desenvolvedora Java Full-Stack e Estudante de Bacharel em TI</b>, do Brasil.</h2>
 
 ###
 
