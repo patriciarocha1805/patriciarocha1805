@@ -1,4 +1,4 @@
-<h1 align="left">Olá! 👋 Como vai?</h1>
+<h1 align="left">Boas vindas! </h1>
 
 <h2 align="left">Olá 👋! Meu nome é <b>Patrícia</b> e sou <b>Desenvolvedora Java Full-Stack & Estudante de Bacharel em TI</b>, do Brasil.</h2>
 
@@ -58,6 +58,9 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 <!--
 **patriciarocha1805/patriciarocha1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
