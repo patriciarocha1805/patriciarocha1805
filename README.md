@@ -4,11 +4,6 @@
 
 ###
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
@@ -19,7 +14,7 @@
 
 ###
 
-<h2 align="left">Eu faço códigos com: </h2>
+<h2 align="left">Linguagens e Ferramentas: </h2>
 
 <div align="left">
   <!-- Java -->
@@ -49,6 +44,11 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
 <!--
 **patriciarocha1805/patriciarocha1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
